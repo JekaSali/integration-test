@@ -1,2 +1,2 @@
-# integration-test
-Integration testing in Spring
+# spring-testing
+build a simple Spring application and test it with JUnit
