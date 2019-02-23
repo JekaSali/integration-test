@@ -19,3 +19,4 @@ public class SmokeTest {
         assertThat(controller).isNotNull();
     }
 }
+

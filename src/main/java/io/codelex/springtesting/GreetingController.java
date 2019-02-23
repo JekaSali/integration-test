@@ -14,7 +14,8 @@ public class GreetingController {
     }
 
     @RequestMapping("/greeting")
-    public @ResponseBody String greeting() {
+    public @ResponseBody
+    String greeting() {
         return service.greet();
     }
 
